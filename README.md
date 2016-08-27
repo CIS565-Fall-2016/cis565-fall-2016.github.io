@@ -4,11 +4,14 @@ http://seas.upenn.edu/~cis565/
 
 ![](images/banner.png)
 
-# Schedule
+* [Class Schedule](#class-schedule)
+* [Project Schedule](#project-schedule)
+
+# Class Schedule
 
 Monday classes (lectures) are in Moore 212, 6-9pm.
 
-Wednesday classes (recitation, sometimes lectures) are in Towne 305.
+Wednesday classes (recitation, sometimes lectures) are in Towne 305, 6-9pm.
 
 See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io#course-schedule) for a pretty good idea of where we are heading.
 
@@ -89,3 +92,19 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 16
 
 * [ ] **Monday, December 12** - lecture
+
+# Project Schedule
+
+* [ ] P0 - CUDA getting started, due TBA
+* [ ] P1 - GPU Flocking, due TBA
+* [ ] P2 - Stream compaction, due TBA
+* [ ] P3 - GPU path tracer, due TBA
+* [ ] P4 - GPU rasterizer, due TBA
+* [ ] P5 - WebGL Forward+ renderer, due TBA
+* [ ] P6 - Flocking with Vulkan and compute shaders, due TBA
+
+# Recitation Labs
+
+* [ ] Open-source WebGL engines performance analysis
+* [ ] Ray marching performance analysis
+* [ ] Jetson TK1
