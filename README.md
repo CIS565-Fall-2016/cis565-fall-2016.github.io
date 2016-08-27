@@ -108,3 +108,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [ ] Open-source WebGL engines performance analysis
 * [ ] Ray marching performance analysis
 * [ ] Jetson TK1
+
+# Other Events
+
+* [ ] Code sprint at Patrick's house
