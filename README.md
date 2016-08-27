@@ -2,6 +2,8 @@ Course website for CIS 565 at the University of Pennsylvania
 
 http://seas.upenn.edu/~cis565/
 
+![](images/banner.png)
+
 # Schedule
 
 Monday classes (lectures) are in Moore 212, 6-9pm.
@@ -16,7 +18,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 2
 
-* [ ] **Monday, September 5** - No class, Labor Day
+* [x] **Monday, September 5** - No class, Labor Day
 * [ ] **Wednesday, September 7** - lecture
 
 ## Week 3
@@ -72,7 +74,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 13
 
 * [ ] **Monday, November 21** - lecture
-* [ ] **Wednesday, November 23** - No class, Thur-Fri class schedule on Tue-Wed
+* [x] **Wednesday, November 23** - No class, Thur-Fri class schedule on Tue-Wed
 
 ## Week 14
 
