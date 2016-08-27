@@ -112,3 +112,4 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 # Other Events
 
 * [ ] Code sprint at Patrick's house
+* [ ] Sixers game
