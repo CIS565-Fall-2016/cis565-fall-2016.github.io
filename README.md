@@ -36,7 +36,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 5
 
-* [ ] **Monday, September 26** - lecture
+* [ ] **Monday, September 26** - lecture (DreamWorks info session?)
 * [ ] **Wednesday, September 28** - recitation
 
 ## Week 6
@@ -72,7 +72,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 12
 
 * [ ] **Monday, November 14** - lecture
-* [ ] **Wednesday, November 16** - recitation
+* [ ] **Wednesday, November 16** - recitation (recruiter info session?)
 
 ## Week 13
 
