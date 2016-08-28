@@ -36,7 +36,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 5
 
-* [ ] **Monday, September 26** - lecture (DreamWorks info session?)
+* [ ] **Monday, September 26** - No class, DreamWorks info session at 6pm
 * [ ] **Wednesday, September 28** - recitation
 
 ## Week 6
