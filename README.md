@@ -47,7 +47,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 7
 
 * [ ] **Monday, October 10** - lecture
-* [ ] **Wednesday, October 12** - recitation
+* [ ] **Wednesday, October 12** - guest lecture, [Tim Kaldewey](http://www.kaldewey.com/), IBM Research
 
 ## Week 8
 
