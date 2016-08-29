@@ -19,7 +19,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 * [ ] **Wednesday, September 31** - lecture
    * Course overview. [pptx](lectures/0-Course-Overview.pptx)
-   * CUDA crash course
+   * CUDA crash course. [pptx](lectures/1-CUDA-Introduction-1.pptx)
    * **Reading**: PMPP Chapter 3
 
 ## Week 2
