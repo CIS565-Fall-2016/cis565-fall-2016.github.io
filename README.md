@@ -18,15 +18,23 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 1
 
 * [ ] **Wednesday, September 31** - lecture
+   * Course overview. [pptx](lectures/0-Course-Overview.pptx)
+   * CUDA crash course
+   * **Reading**: PMPP Chapter 3
 
 ## Week 2
 
 * [x] **Monday, September 5** - No class, Labor Day
-* [ ] **Wednesday, September 7** - lecture
+* [ ] **Wednesday, September 7** - recitation
+   * Intro to debugging with Parallel Nsight
+   * Project 1 help
 
 ## Week 3
 
-* [ ] **Monday, September 12** - guest lecture, Ishaan Singh, EA.  Penn alumnus
+* [ ] **Monday, September 12** - lecture and guest lecture
+   * GPU architecture
+   * **Reading**: PMPP Chapter 1
+   * **Guest Lecture**: [Ishaan Singh](https://www.linkedin.com/in/ishaan13), EA.  Penn alumnus
 * [ ] **Wednesday, September 14** - recitation
 
 ## Week 4
@@ -95,13 +103,14 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 # Project Schedule
 
-* [ ] P0 - CUDA getting started, due TBA
-* [ ] P1 - GPU Flocking, due TBA
-* [ ] P2 - Stream compaction, due TBA
-* [ ] P3 - GPU path tracer, due TBA
-* [ ] P4 - GPU rasterizer, due TBA
-* [ ] P5 - WebGL Forward+ renderer, due TBA
-* [ ] P6 - Flocking with Vulkan and compute shaders, due TBA
+* [ ] P0 - [CUDA getting started](https://github.com/CIS565-Fall-2016/Project0-CUDA-Getting-Started/blob/master/INSTRUCTION.md). Due Sunday, September 4. 0% of final grade
+* [ ] P1 - GPU Flocking. Due TBA. TBA% of final grade.
+* [ ] P2 - Stream compaction. Due TBA.TBA% of final grade.
+* [ ] P3 - GPU path tracer. Due TBA. TBA% of final grade.
+* [ ] P4 - GPU rasterizer. Due TBA. TBA% of final grade.
+* [ ] P5 - WebGL Forward+ renderer. Due TBA. TBA% of final grade.
+* [ ] P6 - Flocking with Vulkan and compute shaders. Due TBA. TBA% of final grade.
+* [ ] Final project. Due Monday, December 12. 50% of final grade.
 
 # Recitation Labs
 
