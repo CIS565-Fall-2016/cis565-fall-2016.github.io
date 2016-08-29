@@ -35,12 +35,17 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
    * GPU architecture
    * **Reading**: PMPP Chapter 1
    * **Guest Lecture**: [Ishaan Singh](https://www.linkedin.com/in/ishaan13), EA.  Penn alumnus
-* [ ] **Wednesday, September 14** - recitation
+* [ ] **Wednesday, September 14** - lecture
+   * CUDA: Part 2
+   * CUDA performance
+   * **Reading**: PMPP Chapter 4, 5, and 6
 
 ## Week 4
 
-* [ ] **Monday, September 19** - lecture (Patrick on travel)
-* [ ] **Wednesday, September 21** - recitation (Patrick on travel)
+* [ ] **Monday, September 19** - recitation (Patrick on travel)
+   * Intro to profiling with Parallel Nsight
+   * Project 1 help
+* [ ] **Wednesday, September 21** - No class (Patrick on travel; recitation moved to Monday this week)
 
 ## Week 5
 
@@ -107,7 +112,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
    * Due Sunday, September 4
    * 0% of final grade
 * [ ] P1 - GPU Flocking
-   * Due TBA
+   * Due Tuesday, September 20
    * TBA% of final grade
 * [ ] P2 - Stream compaction
    * Due TBA
