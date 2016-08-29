@@ -104,7 +104,8 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 # Project Schedule
 
 * [ ] P0 - [CUDA getting started](https://github.com/CIS565-Fall-2016/Project0-CUDA-Getting-Started/blob/master/INSTRUCTION.md)
-   * Due Sunday, September 4. 0% of final grade
+   * Due Sunday, September 4
+   * 0% of final grade
 * [ ] P1 - GPU Flocking
    * Due TBA
    * TBA% of final grade
