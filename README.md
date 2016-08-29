@@ -103,14 +103,29 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 # Project Schedule
 
-* [ ] P0 - [CUDA getting started](https://github.com/CIS565-Fall-2016/Project0-CUDA-Getting-Started/blob/master/INSTRUCTION.md). Due Sunday, September 4. 0% of final grade
-* [ ] P1 - GPU Flocking. Due TBA. TBA% of final grade.
-* [ ] P2 - Stream compaction. Due TBA.TBA% of final grade.
-* [ ] P3 - GPU path tracer. Due TBA. TBA% of final grade.
-* [ ] P4 - GPU rasterizer. Due TBA. TBA% of final grade.
-* [ ] P5 - WebGL Forward+ renderer. Due TBA. TBA% of final grade.
-* [ ] P6 - Flocking with Vulkan and compute shaders. Due TBA. TBA% of final grade.
-* [ ] Final project. Due Monday, December 12. 50% of final grade.
+* [ ] P0 - [CUDA getting started](https://github.com/CIS565-Fall-2016/Project0-CUDA-Getting-Started/blob/master/INSTRUCTION.md)
+   * Due Sunday, September 4. 0% of final grade
+* [ ] P1 - GPU Flocking
+   * Due TBA
+   * TBA% of final grade
+* [ ] P2 - Stream compaction
+   * Due TBA
+   * TBA% of final grade
+* [ ] P3 - GPU path tracer
+   * Due TBA
+   * TBA% of final grade
+* [ ] P4 - GPU rasterizer
+   * Due TBA
+   * TBA% of final grade
+* [ ] P5 - WebGL Forward+ renderer
+   * Due TBA
+   * TBA% of final grade
+* [ ] P6 - Flocking with Vulkan and compute shaders
+   * Due TBA
+   * TBA% of final grade
+* [ ] Final project
+   * Due Monday, December 12
+   * 50% of final grade
 
 # Recitation Labs
 
