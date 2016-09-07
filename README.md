@@ -25,7 +25,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 2
 
 * [x] **Monday, September 5** - No class, Labor Day
-* [ ] **Wednesday, September 7** - recitation
+* [ ] **Wednesday, September 7** - recitation [Google Slides](https://docs.google.com/presentation/d/1YIrnCkfwS-l4xAsi9iZ_ZKZl9LdgyOnfsxgBttiOXzs/edit?usp=sharing)
    * Intro to debugging with Parallel Nsight
    * Project 1 help
 
