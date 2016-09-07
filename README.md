@@ -113,22 +113,22 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
    * 0% of final grade
 * [ ] P1 - GPU Flocking
    * Due Tuesday, September 20
-   * TBA% of final grade
+   * 5% of final grade
 * [ ] P2 - Stream compaction
    * Due TBA
-   * TBA% of final grade
+   * 10% of final grade
 * [ ] P3 - GPU path tracer
    * Due TBA
-   * TBA% of final grade
+   * 10% of final grade
 * [ ] P4 - GPU rasterizer
    * Due TBA
-   * TBA% of final grade
+   * 10% of final grade
 * [ ] P5 - WebGL Forward+ renderer
    * Due TBA
-   * TBA% of final grade
+   * 10% of final grade
 * [ ] P6 - Flocking with Vulkan and compute shaders
    * Due TBA
-   * TBA% of final grade
+   * 5% of final grade
 * [ ] Final project
    * Due Monday, December 12
    * 50% of final grade
