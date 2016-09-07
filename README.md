@@ -112,7 +112,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
    * Due Sunday, September 4
    * 0% of final grade
 * [ ] P1 - GPU Flocking
-   * Due Tuesday, September 20
+   * Due Tuesday, September 13
    * 5% of final grade
 * [ ] P2 - Stream compaction
    * Due TBA
