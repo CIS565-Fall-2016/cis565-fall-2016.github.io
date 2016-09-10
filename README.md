@@ -84,7 +84,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 12
 
-* [ ] **Monday, November 14** - lecture
+* [ ] **Monday, November 14** - tentative guest lecture
 * [ ] **Wednesday, November 16** - recitation (recruiter info session?)
 
 ## Week 13
