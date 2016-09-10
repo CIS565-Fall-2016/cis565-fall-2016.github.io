@@ -34,7 +34,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [ ] **Monday, September 12** - lecture and guest lecture
    * GPU architecture
    * **Reading**: PMPP Chapter 1
-   * **Guest Lecture**: [Ishaan Singh](https://www.linkedin.com/in/ishaan13), EA.  Penn alumnus
+   * **Guest Lecture**: [Ishaan Singh](lectures/GuestLectures/IshaanSingh/README.md), Electronic Arts.  Penn alumnus
 * [ ] **Wednesday, September 14** - lecture
    * CUDA: Part 2
    * CUDA performance
