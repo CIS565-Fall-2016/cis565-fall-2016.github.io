@@ -74,8 +74,8 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 10
 
-* [ ] **Monday, October 31** - lecture
-* [ ] **Wednesday, November 2** - recitation
+* [ ] **Monday, October 31** - lecture (Patrick on travel)
+* [ ] **Wednesday, November 2** - recitation (Patrick on travel)
 
 ## Week 11
 
