@@ -1,4 +1,4 @@
-**Ishaan Singh**, Electronic Arts
+## Ishaan Singh, Electronic Arts
 
 CIS 565 Guest Lecture
 
@@ -10,9 +10,9 @@ Sports is often considered a less exciting video game to work on but what many p
 
 ![](Bokeh.PNG)
 
-![](grass.PNG)
-
 ![](RTW.PNG)
+
+![](grass.PNG)
 
 **Bio**
 
