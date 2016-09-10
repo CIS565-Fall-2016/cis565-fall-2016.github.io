@@ -8,11 +8,11 @@ Monday, September 12
 
 Sports is often considered a less exciting video game to work on but what many people don’t realize is that having a reference for the virtual world in the real world makes photorealism the name of the game. A large variety of graphics algorithms are used to achieve depth of field like broad cast cameras, crisp shadows from complex stadium lights, and down to the blades of grass on a golf course. Another thing that is vital to a game company is that everything we do is performant and that’s a large part of the decision regarding whether a feature makes it to production.
 
-![](images/Bokeh.PNG)
+![](Bokeh.PNG)
 
-![](images/grass.PNG)
+![](grass.PNG)
 
-![](images/RTW.PNG)
+![](RTW.PNG)
 
 **Bio**
 
