@@ -18,21 +18,21 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 1
 
 * [x] **Wednesday, September 31** - lecture
-   * Course overview. [pptx](lectures/0-Course-Overview.pptx)
-   * CUDA crash course. [pptx](lectures/1-CUDA-Introduction-1.pptx)
+   * Course overview. [pptx](lectures/0-Course-Overview.pptx?raw=true)
+   * CUDA crash course. [pptx](lectures/1-CUDA-Introduction-1.pptx?raw=true)
    * **Reading**: PMPP Chapter 3
 
 ## Week 2
 
 * [x] **Monday, September 5** - No class, Labor Day
-* [x] **Wednesday, September 7** - recitation [Google Slides](https://docs.google.com/presentation/d/1YIrnCkfwS-l4xAsi9iZ_ZKZl9LdgyOnfsxgBttiOXzs/edit?usp=sharing)
+* [x] **Wednesday, September 7** - recitation. [Google Slides](https://docs.google.com/presentation/d/1YIrnCkfwS-l4xAsi9iZ_ZKZl9LdgyOnfsxgBttiOXzs/edit?usp=sharing)
    * Intro to debugging with Parallel Nsight
    * Project 1 help
 
 ## Week 3
 
 * [ ] **Monday, September 12** - lecture and guest lecture
-   * GPU architecture
+   * GPU architecture. [pptx](lectures/2-GPU-Architecture-Overview.pptx?raw=true)
    * **Reading**: PMPP Chapter 1, [Modern Microprocessors. A 90 Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/), [How to make an attractive GitHub repo](https://github.com/pjcozzi/Articles/tree/master/CIS565/GitHubRepo#how-to-make-an-attractive-github-repo), [Presenter's Guide](https://github.com/AnalyticalGraphicsInc/cesium/tree/master/Documentation/Contributors/PresentersGuide#presenters-guide)
    * **Guest Lecture**: [Ishaan Singh](lectures/GuestLectures/IshaanSingh/README.md), Electronic Arts.  Penn alumnus
 * [ ] **Wednesday, September 14** - lecture
