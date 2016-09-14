@@ -31,12 +31,12 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 3
 
-* [ ] **Monday, September 12** - lecture and guest lecture
+* [x] **Monday, September 12** - lecture and guest lecture
    * GPU architecture. [pptx](lectures/2-GPU-Architecture-Overview.pptx?raw=true)
    * README.md Tips. [pptx](lectures/2-README-Tips.pptx?raw=true)
    * **Reading**: PMPP Chapter 1, [Modern Microprocessors. A 90 Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/), [How to make an attractive GitHub repo](https://github.com/pjcozzi/Articles/tree/master/CIS565/GitHubRepo#how-to-make-an-attractive-github-repo), [Presenter's Guide](https://github.com/AnalyticalGraphicsInc/cesium/tree/master/Documentation/Contributors/PresentersGuide#presenters-guide)
    * **Guest Lecture**: [Ishaan Singh](lectures/GuestLectures/IshaanSingh/README.md), Electronic Arts.  Penn alumnus
-* [ ] **Wednesday, September 14** - lecture
+* [x] **Wednesday, September 14** - lecture
    * Parallel algorithms. [pptx](lectures/3-Parallel-Algorithms-1.pptx?raw=true)
    * **Reading**: [Parallel Prefix Sum (Scan) with CUDA](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch39.html)
 
@@ -115,7 +115,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [x] P0 - [CUDA getting started](https://github.com/CIS565-Fall-2016/Project0-CUDA-Getting-Started/blob/master/INSTRUCTION.md)
    * Due Sunday, September 4
    * 0% of final grade
-* [ ] P1 - GPU Flocking
+* [x] P1 - GPU Flocking
    * Due Tuesday, September 13
    * 5% of final grade
 * [ ] P2 - Stream compaction
