@@ -42,10 +42,10 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 4
 
-* [ ] **Monday, September 19** - No class (Patrick on travel)
+* [x] **Monday, September 19** - No class (Patrick on travel)
 * [ ] **Wednesday, September 21** - recitation (Patrick on travel)
    * Project 2 help
-   * Path Tracing
+   * Path Tracing [Google Slides](https://docs.google.com/presentation/d/1q3h2GVDorEFzmESNfFwR6mODnzS6WbftiVsvaFNGihQ/edit?usp=sharing)
 
 ## Week 5
 
