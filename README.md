@@ -43,23 +43,24 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 4
 
 * [x] **Monday, September 19** - No class (Patrick on travel)
-* [ ] **Wednesday, September 21** - recitation (Patrick on travel)
+* [x] **Wednesday, September 21** - recitation (Patrick on travel)
    * Project 2 help
    * Path Tracing [Google Slides](https://docs.google.com/presentation/d/1q3h2GVDorEFzmESNfFwR6mODnzS6WbftiVsvaFNGihQ/edit?usp=sharing)
 
 ## Week 5
 
-* [ ] **Monday, September 26** - No class, DreamWorks info session at 6pm
+* [x] **Monday, September 26** - No class, DreamWorks info session at 6pm
 * [ ] **Wednesday, September 28** - lecture
-   * CUDA: Part 2
-   * CUDA performance
+   * CUDA: Part 2. [pptx](lectures/4-CUDA-Introduction-2-of-2.pptx?raw=true)
+   * CUDA performance. [pptx](lectures/5-CUDA-Performance.pptx?raw=true)
    * **Reading**: PMPP Chapter 4, 5, and 6
 
 ## Week 6
 
-* [ ] **Monday, October 3** - lecture (Patrick on travel)
-* [ ] **Wednesday, October 5** - recitation (Patrick on travel)
+* [ ] **Monday, October 3** - recitation (Patrick on travel)
+   * Project 3 help
    * Intro to profiling with Parallel Nsight
+* [x] **Wednesday, October 5** (Patrick on travel; start fall break early)
 
 ## Week 7
 
@@ -104,7 +105,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 15
 
 * [ ] **Monday, December 5** - lecture
-* [ ] **Wednesday, November 7** - recitation
+* [ ] **Wednesday, December 7** - recitation
 
 ## Week 16
 
