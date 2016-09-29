@@ -122,7 +122,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
    * Due Tuesday, September 27
    * 10% of final grade
 * [ ] P3 - GPU path tracer
-   * Due TBA
+   * Due Sunday, October 9
    * 10% of final grade
 * [ ] P4 - GPU rasterizer (or instructor-approved GPU Computing project)
    * Due TBA
