@@ -50,9 +50,8 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 5
 
 * [x] **Monday, September 26** - No class, DreamWorks info session at 6pm
-* [ ] **Wednesday, September 28** - lecture
-   * CUDA: Part 2. [pptx](lectures/4-CUDA-Introduction-2-of-2.pptx?raw=true)
-   * CUDA performance. [pptx](lectures/5-CUDA-Performance.pptx?raw=true)
+* [x] **Wednesday, September 28** - lecture
+   * CUDA: Part 2. [pptx](lectures/4-CUDA-Introduction-2-of-2.pptx?raw=true), [pdf](lectures/4-CUDA-Introduction-2-of-2.pdf?raw=true)
    * **Reading**: PMPP Chapter 4, 5, and 6
 
 ## Week 6
@@ -65,6 +64,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 7
 
 * [ ] **Monday, October 10** - lecture
+   * CUDA performance. [pptx](lectures/5-CUDA-Performance.pptx?raw=true), [pdf](lectures/5-CUDA-Performance.pdf?raw=true)
 * [ ] **Wednesday, October 12** - guest lecture, [Tim Kaldewey](http://www.kaldewey.com/), IBM Research
 
 ## Week 8
@@ -119,7 +119,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [x] P1 - GPU Flocking
    * Due Tuesday, September 13
    * 5% of final grade
-* [ ] P2 - Stream compaction
+* [x] P2 - Stream compaction
    * Due Tuesday, September 27
    * 10% of final grade
 * [ ] P3 - GPU path tracer
