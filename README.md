@@ -57,7 +57,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 6
 
 * [ ] **Monday, October 3** - recitation (Patrick on travel)
-   * Project 3 help
+   * Project 3 help [Google Slides](https://docs.google.com/presentation/d/1qZRxBYM1X3FEq7ALkSWc6K1mHKQVhw5ZQ9t9P4qZDSs/edit?usp=sharing)
    * Intro to profiling with Parallel Nsight
 * [x] **Wednesday, October 5** (Patrick on travel; start fall break early)
 
