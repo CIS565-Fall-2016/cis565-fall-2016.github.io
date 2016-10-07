@@ -56,7 +56,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 6
 
-* [ ] **Monday, October 3** - recitation (Patrick on travel)
+* [x] **Monday, October 3 (Jewish holiday)** - recitation (Patrick on travel)
    * Project 3 help [Google Slides](https://docs.google.com/presentation/d/1qZRxBYM1X3FEq7ALkSWc6K1mHKQVhw5ZQ9t9P4qZDSs/edit?usp=sharing)
    * Intro to profiling with Parallel Nsight
 * [x] **Wednesday, October 5** (Patrick on travel; start fall break early)
@@ -65,16 +65,16 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 * [ ] **Monday, October 10** - lecture
    * CUDA performance. [pptx](lectures/5-CUDA-Performance.pptx?raw=true), [pdf](lectures/5-CUDA-Performance.pdf?raw=true)
-* [ ] **Wednesday, October 12** - guest lecture, [Tim Kaldewey](http://www.kaldewey.com/), IBM Research
+* [ ] **Wednesday, October 12 (Jewish holiday)** - guest lecture, [Tim Kaldewey](http://www.kaldewey.com/), IBM Research
 
 ## Week 8
 
-* [ ] **Monday, October 17** - lecture
+* [ ] **Monday, October 17 (Jewish holiday)** - lecture
 * [ ] **Wednesday, October 19** - recitation
 
 ## Week 9
 
-* [ ] **Monday, October 24** - lecture
+* [ ] **Monday, October 24 (Jewish holiday)** - lecture
 * [ ] **Wednesday, October 26** - recitation
 
 ## Week 10
@@ -84,12 +84,12 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 11
 
-* [ ] **Monday, November 7** - guest lecture?
+* [ ] **Monday, November 7** - guest lecture, [Corentin Wallez](https://twitter.com/dakangz), Google Chrome
 * [ ] **Wednesday, November 9** - recitation
 
 ## Week 12
 
-* [ ] **Monday, November 14** - tentative guest lecture
+* [ ] **Monday, November 14** - guest lecture, Amanda Watson, Oculus
 * [ ] **Wednesday, November 16** - recitation (recruiter info session?)
 
 ## Week 13
