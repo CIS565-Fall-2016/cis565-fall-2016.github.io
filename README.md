@@ -63,14 +63,14 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 7
 
-* [ ] **Monday, October 10** - lecture
+* [x] **Monday, October 10** - lecture
    * CUDA performance. [pptx](lectures/5-CUDA-Performance.pptx?raw=true), [pdf](lectures/5-CUDA-Performance.pdf?raw=true)
-* [ ] **Wednesday, October 12 (Jewish holiday)** - guest lecture, [Tim Kaldewey](http://www.kaldewey.com/), IBM Research
+* [x] **Wednesday, October 12 (Jewish holiday)** - guest lecture, [Tim Kaldewey](http://www.kaldewey.com/), IBM Research
 
 ## Week 8
 
 * [ ] **Monday, October 17 (Jewish holiday)** - lecture
-* [ ] **Wednesday, October 19** - recitation
+* [ ] **Wednesday, October 19** - recitation, proj4, rasterizer
 
 ## Week 9
 
