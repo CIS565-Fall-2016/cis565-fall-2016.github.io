@@ -36,6 +36,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
    * README.md Tips. [pptx](lectures/2-README-Tips.pptx?raw=true)
    * **Reading**: PMPP Chapter 1, [Modern Microprocessors. A 90 Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors/), [How to make an attractive GitHub repo](https://github.com/pjcozzi/Articles/tree/master/CIS565/GitHubRepo#how-to-make-an-attractive-github-repo), [Presenter's Guide](https://github.com/AnalyticalGraphicsInc/cesium/tree/master/Documentation/Contributors/PresentersGuide#presenters-guide)
    * **Guest Lecture**: [Ishaan Singh](lectures/GuestLectures/IshaanSingh/README.md), Electronic Arts.  Penn alumnus
+   * Slides: [pptx](https://www.dropbox.com/s/pyxob9m6jzkfi4s/Penn_cis565_sportsRenderingForModernConsoles.pptx?dl=0)
 * [x] **Wednesday, September 14** - lecture
    * Parallel algorithms. [pptx](lectures/3-Parallel-Algorithms-1.pptx?raw=true)
    * **Reading**: [Parallel Prefix Sum (Scan) with CUDA](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch39.html)
