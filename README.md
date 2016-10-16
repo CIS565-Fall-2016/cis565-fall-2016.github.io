@@ -103,7 +103,8 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 14
 
 * [ ] **Monday, November 28** - lecture
-* [ ] **Wednesday, November 30** - guest lecture?
+* [ ] **Wednesday, November 30** - guest lecture
+   * [Morgan McGuire](http://cs.williams.edu/~morgan/), Williams College / NVIDIA Research / Casual Effects
 
 ## Week 15
 
