@@ -70,7 +70,9 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 8
 
 * [ ] **Monday, October 17 (Jewish holiday)** - lecture
-* [ ] **Wednesday, October 19** - recitation, proj4, rasterizer
+* [ ] **Wednesday, October 19** - recitation
+   * Project 4 help
+   * Rasterization algorithms
 
 ## Week 9
 
@@ -100,7 +102,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 14
 
 * [ ] **Monday, November 28** - lecture
-* [ ] **Wednesday, November 30** - recitation
+* [ ] **Wednesday, November 30** - guest lecture?
 
 ## Week 15
 
