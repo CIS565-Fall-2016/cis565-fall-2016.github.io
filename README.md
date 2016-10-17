@@ -72,8 +72,8 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 8
 
 * [ ] **Monday, October 17 (Jewish holiday)** - lecture
-   * CUDA atomics. [pptx](lectures/6-CUDA-Atomics.pptx?raw=true)
-   * Graphics pipeline. [pptx](lectures/6-Graphics-Pipeline.pptx?raw=true)
+   * CUDA atomics. [pptx](lectures/6-CUDA-Atomics.pptx?raw=true), [pdf](lectures/6-CUDA-Atomics.pdf?raw=true)
+   * Graphics pipeline. [pptx](lectures/6-Graphics-Pipeline.pptx?raw=true), [pdf](lectures/6-Graphics-Pipeline.pdf?raw=true)
 * [ ] **Wednesday, October 19** - recitation
    * Project 4 help
    * Rasterization algorithms
