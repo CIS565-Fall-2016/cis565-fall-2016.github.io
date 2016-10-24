@@ -80,7 +80,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 9
 
-* [ ] **Monday, October 24 (Jewish holiday)** - lecture
+* [x] **Monday, October 24 (Jewish holiday)** - lecture
    * Graphics pipeline (finish last week's slides)
    * GLSL. [pptx](lectures/7-GLSL.pptx?raw=true), [pdf](lectures/7-GLSL.pdf?raw=true)
    * OpenGL and WebGL. [pptx](lectures/7-WebGL.pptx?raw=true), [pdf](lectures/7-WebGL.pdf?raw=true)
@@ -93,7 +93,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 11
 
-* [ ] **Monday, November 7** - guest lecture, [Corentin Wallez](https://twitter.com/dakangz), Google Chrome
+* [ ] **Monday, November 7** - guest lecture, [Corentin Wallez](lectures/GuestLectures/CorentinWallez), Google Chrome
 * [ ] **Wednesday, November 9** - recitation
 
 ## Week 12
