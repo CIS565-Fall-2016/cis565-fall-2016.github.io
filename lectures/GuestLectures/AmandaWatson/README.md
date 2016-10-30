@@ -1,6 +1,6 @@
 ## How to Get Started in Virtual Reality if You are Me
 
-**Amanda Watson **
+**Amanda Watson**
 
 Guest Lecture in CIS
 
