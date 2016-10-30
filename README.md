@@ -90,6 +90,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 * [ ] **Monday, October 31** - lecture
    * OpenGL and WebGL (finish last week's slides)
+   * Deferred Shading. [pptx](lectures/08-Deferred-Shading.pptx?raw=true), [pdf](lectures/08-Deferred-Shading.pdf?raw=true) (not ready yet)
    * **Reading**
       * [WebGL Deferred Shading](https://hacks.mozilla.org/2014/01/webgl-deferred-shading/)
       * [WebGL Debugging and Profiling Tools](http://www.realtimerendering.com/blog/webgl-debugging-and-profiling-tools/)
