@@ -90,14 +90,23 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 * [ ] **Monday, October 31** - lecture
    * OpenGL and WebGL (finish last week's slides)
+   * **Reading**
+      * [WebGL Deferred Shading](https://hacks.mozilla.org/2014/01/webgl-deferred-shading/)
+      * [WebGL Debugging and Profiling Tools](http://www.realtimerendering.com/blog/webgl-debugging-and-profiling-tools/)
+      * [WebGL Resources](http://www.realtimerendering.com/webgl.html)
+      * [WebGL code example](lectures/Fall%202015/webgl-examples)
 * [ ] **Wednesday, November 2** - recitation
    * Student presentation: NVIDIA Pascal Architecture by Gabe Naghi (to be confirmed)
+   * Project 5 help
 
 ## Week 11
 
 * [ ] **Monday, November 7** - guest lecture
-   * [Corentin Wallez](lectures/GuestLectures/CorentinWallez), Google Chrome
+   * [Vulkan](lectures/GuestLectures/CorentinWallez), Corentin Wallez, Google Chrome
+   * Final project kickoff
 * [ ] **Wednesday, November 9** - recitation
+   * Vulkan tutorial
+   * Project 6 help
 
 ## Week 12
 
@@ -105,26 +114,34 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
    * [How to Get Started in Virtual Reality if You are Me](lectures/GuestLectures/AmandaWatson/README.md) by Amanda Watson, Oculus
    * Skirkanich Hall Berger Auditorium (**not** Moore 212)
 * [ ] **Wednesday, November 16** - recitation (recruiter info session?)
+   * Final project pitches
 
 ## Week 13
 
 * [ ] **Monday, November 21** - lecture
+   * Final project presentations: milestone 1
 * [x] **Wednesday, November 23** - No class, Thur-Fri class schedule on Tue-Wed
 
 ## Week 14
 
 * [ ] **Monday, November 28** - lecture
+   * Final project presentations: milestone 2
 * [ ] **Wednesday, November 30** - guest lecture
    * [Phenomenological Transparency](lectures/GuestLectures/MorganMcGuire/README.md) by Morgan McGuire, Williams College / NVIDIA Research / Casual Effects
 
 ## Week 15
 
-* [ ] **Monday, December 5** - lecture
-* [ ] **Wednesday, December 7** - recitation
+* [ ] **Monday, December 5** - lecture (Patrick on travel)
+* [ ] **Wednesday, December 7** - recitation (Patrick on travel)
 
 ## Week 16
 
 * [ ] **Monday, December 12** - lecture
+   * Final project presentations: milestone 3
+
+## Final project final presentations
+
+* [ ] TBA
 
 # Project Schedule
 
