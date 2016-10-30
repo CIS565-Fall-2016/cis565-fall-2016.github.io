@@ -84,11 +84,12 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
    * Graphics pipeline (finish last week's slides)
    * GLSL. [pptx](lectures/7-GLSL.pptx?raw=true), [pdf](lectures/7-GLSL.pdf?raw=true)
    * OpenGL and WebGL. [pptx](lectures/7-WebGL.pptx?raw=true), [pdf](lectures/7-WebGL.pdf?raw=true)
-* [ ] **Wednesday, October 26** - recitation
+* [x] **Wednesday, October 26** - extra office hours
 
 ## Week 10
 
 * [ ] **Monday, October 31** - lecture
+   * OpenGL and WebGL (finish last week's slides)
 * [ ] **Wednesday, November 2** - recitation
 
 ## Week 11
@@ -100,7 +101,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 ## Week 12
 
 * [ ] **Monday, November 14** - guest lecture
-   * Amanda Watson, Oculus
+   * [How to Get Started in Virtual Reality if You are Me](ectures/GuestLectures/AmandaWatson/README.md) by Amanda Watson, Oculus
    * Skirkanich Hall Berger Auditorium (**not** Moore 212)
 * [ ] **Wednesday, November 16** - recitation (recruiter info session?)
 
@@ -138,7 +139,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [x] P3 - GPU path tracer
    * Due Sunday, October 9
    * 10% of final grade
-* [ ] P4 - GPU rasterizer (or instructor-approved GPU Computing project)
+* [x] P4 - GPU rasterizer (or instructor-approved GPU Computing project)
    * Due Tuesday, October 25
    * 10% of final grade
 * [ ] P5 - WebGL Forward+ renderer (or instructor-approved GPU Computing project)
@@ -154,12 +155,12 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 # Recitation Labs
 
 * [x] GPU debugging with NVIDIA Nsight
-* [ ] GPU profiling with NVIDIA Nsight
+* [x] GPU profiling with NVIDIA Nsight
 * [ ] Open-source WebGL engines performance analysis
 * [ ] Ray marching performance analysis
-* [ ] Jetson TK1
+* [x] ~~Jetson TK1~~
 
 # Other Events
 
 * [ ] Code sprint at Patrick's house
-* [ ] Sixers game
+* [x] ~~Sixers game~~
