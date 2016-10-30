@@ -91,6 +91,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [ ] **Monday, October 31** - lecture
    * OpenGL and WebGL (finish last week's slides)
 * [ ] **Wednesday, November 2** - recitation
+   * Student presentation: NVIDIA Pascal Architecture by Gabe Naghi (to be confirmed)
 
 ## Week 11
 
