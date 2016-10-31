@@ -84,6 +84,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
    * Graphics pipeline (finish last week's slides)
    * GLSL. [pptx](lectures/7-GLSL.pptx?raw=true), [pdf](lectures/7-GLSL.pdf?raw=true)
    * OpenGL and WebGL. [pptx](lectures/7-WebGL.pptx?raw=true), [pdf](lectures/7-WebGL.pdf?raw=true)
+   * **Reading**: RTR Chapters 1 and 2
 * [x] **Wednesday, October 26** - extra office hours
 
 ## Week 10
@@ -96,8 +97,9 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
       * [WebGL Debugging and Profiling Tools](http://www.realtimerendering.com/blog/webgl-debugging-and-profiling-tools/)
       * [WebGL Resources](http://www.realtimerendering.com/webgl.html)
       * [WebGL code example](lectures/Fall%202015/webgl-examples)
+      * RTR RTR Section 9.1
 * [ ] **Wednesday, November 2** - recitation
-   * Student presentation: NVIDIA Pascal Architecture by Gabe Naghi (to be confirmed)
+   * Student presentation: NVIDIA Pascal Architecture by Gabe Naghi
    * Project 5 help
 
 ## Week 11
