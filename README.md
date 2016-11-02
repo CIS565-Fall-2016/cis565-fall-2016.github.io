@@ -100,7 +100,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
       * RTR RTR Section 9.1
 * [ ] **Wednesday, November 2** - recitation
    * Student presentation: NVIDIA Pascal Architecture by Gabe Naghi
-   * Project 5 help
+   * [Project 5 help](https://docs.google.com/presentation/d/1Boz6uGFFAcgRVsWBtYtG5Jnm9nW5CFqoBkXUzSMNGb4/edit?usp=sharing)
 
 ## Week 11
 
