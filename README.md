@@ -98,7 +98,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
       * [WebGL Resources](http://www.realtimerendering.com/webgl.html)
       * [WebGL code example](lectures/Fall%202015/webgl-examples)
       * RTR RTR Section 9.1
-* [ ] **Wednesday, November 2** - recitation
+* [x] **Wednesday, November 2** - recitation
    * Student presentation: NVIDIA Pascal Architecture by Gabe Naghi
    * [Project 5 help](https://docs.google.com/presentation/d/1Boz6uGFFAcgRVsWBtYtG5Jnm9nW5CFqoBkXUzSMNGb4/edit?usp=sharing)
 
@@ -106,10 +106,9 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 * [ ] **Monday, November 7** - guest lecture
    * [Vulkan](lectures/GuestLectures/CorentinWallez), Corentin Wallez, Google Chrome
-   * Final project kickoff
 * [ ] **Wednesday, November 9** - recitation
-   * Vulkan tutorial
-   * Project 6 help
+   * Project 6 Vulkan hands-on workshop
+   * Final project kickoff
 
 ## Week 12
 
