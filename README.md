@@ -115,8 +115,8 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [ ] **Monday, November 14** - guest lecture
    * [How to Get Started in Virtual Reality if You are Me](lectures/GuestLectures/AmandaWatson/README.md) by Amanda Watson, Oculus
    * Skirkanich Hall Berger Auditorium (**not** Moore 212)
-* [ ] **Wednesday, November 16** - recitation (recruiter info session?)
-   * Final project pitches
+* [ ] **Wednesday, November 16**
+   * Final project pitches in the SIG lab
 
 ## Week 13
 
