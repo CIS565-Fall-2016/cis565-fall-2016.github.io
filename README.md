@@ -108,7 +108,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
    * [Vulkan](lectures/GuestLectures/CorentinWallez), Corentin Wallez, Google Chrome
 * [ ] **Wednesday, November 9** - recitation
    * Project 6 Vulkan hands-on workshop
-   * Final project kickoff
+   * [Final project](https://github.com/CIS565-Fall-2016/Final-Project) kickoff
 
 ## Week 12
 
@@ -162,14 +162,14 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [x] P4 - GPU rasterizer (or instructor-approved GPU Computing project)
    * Due Tuesday, October 25
    * 10% of final grade
-* [ ] P5 - WebGL Forward+ renderer (or instructor-approved GPU Computing project)
-   * Due TBA
+* [ ] P5 - [WebGL Deferred Shading](https://github.com/CIS565-Fall-2016/Project5-WebGL-Deferred-Shading-with-glTF) (or instructor-approved GPU Computing project)
+   * Due Tuesday, November 8
    * 10% of final grade
 * [ ] P6 - Flocking with Vulkan and compute shaders
    * Due TBA
    * 5% of final grade
-* [ ] Final project
-   * Due Monday, December 12
+* [ ] [Final project](https://github.com/CIS565-Fall-2016/Final-Project)
+   * Due TBA
    * 50% of final grade
 
 # Recitation Labs
@@ -182,5 +182,5 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 # Other Events
 
-* [ ] Code sprint at Patrick's house
+* [x] ~~Code sprint at Patrick's house~~
 * [x] ~~Sixers game~~
