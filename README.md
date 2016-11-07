@@ -99,7 +99,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
       * [WebGL code example](lectures/Fall%202015/webgl-examples)
       * RTR RTR Section 9.1
 * [x] **Wednesday, November 2** - recitation
-   * Student presentation: NVIDIA Pascal Architecture by Gabe Naghi
+   * Student presentation: NVIDIA Pascal Architecture by Gabe Naghi. [pdf](lectures/NVIDIA-Pascal-Architecture.pdf?raw=true)
    * [Project 5 help](https://docs.google.com/presentation/d/1Boz6uGFFAcgRVsWBtYtG5Jnm9nW5CFqoBkXUzSMNGb4/edit?usp=sharing)
 
 ## Week 11
