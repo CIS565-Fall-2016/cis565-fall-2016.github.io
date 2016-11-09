@@ -104,9 +104,9 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 11
 
-* [ ] **Monday, November 7** - guest lecture
+* [x] **Monday, November 7** - guest lecture
    * [Explicit graphics APIs](lectures/GuestLectures/CorentinWallez), Corentin Wallez, Google Chrome. [Slides](https://docs.google.com/presentation/d/12YSEcLjyYStNDK9EwhPgRq05oIxpTIqC1GdKgJd_Jt4/edit?usp=sharing)
-* [ ] **Wednesday, November 9** - recitation
+* [x] **Wednesday, November 9** - recitation
    * Project 6 Vulkan hands-on workshop
    * [Final project](https://github.com/CIS565-Fall-2016/Final-Project) kickoff
 
