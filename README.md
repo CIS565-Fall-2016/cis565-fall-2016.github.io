@@ -112,29 +112,29 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 12
 
-* [ ] **Monday, November 14** - guest lecture
+* [x] **Monday, November 14** - guest lecture
    * [How to Get Started in Virtual Reality if You are Me](lectures/GuestLectures/AmandaWatson/README.md) by Amanda Watson, Oculus
    * Skirkanich Hall Berger Auditorium (**not** Moore 212)
-* [ ] **Wednesday, November 16**
+* [x] **Wednesday, November 16**
    * Final project pitches in the SIG lab
 
 ## Week 13
 
-* [ ] **Monday, November 21** - lecture
+* [x] **Monday, November 21** - lecture
    * Final project presentations: milestone 1
 * [x] **Wednesday, November 23** - No class, Thur-Fri class schedule on Tue-Wed
 
 ## Week 14
 
-* [ ] **Monday, November 28** - lecture
+* [x] **Monday, November 28** - lecture
    * Final project presentations: milestone 2
-* [ ] **Wednesday, November 30** - guest lecture
+* [x] **Wednesday, November 30** - guest lecture
    * [Phenomenological Transparency](lectures/GuestLectures/MorganMcGuire/README.md) by Morgan McGuire, Williams College / NVIDIA Research / Casual Effects
 
 ## Week 15
 
-* [ ] **Monday, December 5** - lecture (Patrick on travel)
-* [ ] **Wednesday, December 7** - recitation (Patrick on travel)
+* [x] **Monday, December 5** - no class (Patrick on travel)
+* [x] **Wednesday, December 7** - no class (Patrick on travel)
 
 ## Week 16
 
@@ -162,10 +162,10 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [x] P4 - GPU rasterizer (or instructor-approved GPU Computing project)
    * Due Tuesday, October 25
    * 10% of final grade
-* [ ] P5 - [WebGL Deferred Shading](https://github.com/CIS565-Fall-2016/Project5-WebGL-Deferred-Shading-with-glTF) (or instructor-approved GPU Computing project)
+* [x] P5 - [WebGL Deferred Shading](https://github.com/CIS565-Fall-2016/Project5-WebGL-Deferred-Shading-with-glTF) (or instructor-approved GPU Computing project)
    * Due Tuesday, November 8
    * 10% of final grade
-* [ ] P6 - Flocking with Vulkan and compute shaders
+* [x] P6 - Flocking with Vulkan and compute shaders
    * Due TBA
    * 5% of final grade
 * [ ] [Final project](https://github.com/CIS565-Fall-2016/Final-Project)
