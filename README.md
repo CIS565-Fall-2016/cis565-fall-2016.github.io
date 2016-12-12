@@ -138,12 +138,12 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Week 16
 
-* [ ] **Monday, December 12** - lecture
+* [x] **Monday, December 12** - lecture
    * Final project presentations: milestone 3
 
 ## Final project final presentations
 
-* [ ] TBA
+* [ ] *Thursday, December 15**
 
 # Project Schedule
 
@@ -184,3 +184,21 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 * [x] ~~Code sprint at Patrick's house~~
 * [x] ~~Sixers game~~
+
+# Bonus Slides
+
+Material from previous semesters that we did not cover:
+
+* [Parallel algorithms: Part 2](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/tree/master/lectures/5-Parallel-Algorithms-2.pptx?raw=true)
+* [Mobile Graphics](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/tree/master/lectures/10-Mobile-Graphics.pptx?raw=true) 
+* [Ray Marching](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/tree/master/lectures/12-Ray-Marching.pptx?raw=true)
+* [CUDA Profiling and Debugging](http://cis565-fall-2014.github.io/lectures/09-22-CUDA-Profiling-and-Debugging.pptx) by Zakiuddin Shehzan Ayub Mohammed, ArrayFire
+* [CUDA Odds and Ends](http://cis565-fall-2013.github.io/lectures/10-02-CUDA-Odds-and-Ends.pptx)
+* [SSAO](http://cis565-fall-2014.github.io/lectures/11-03-Ambient-Occlusion.pptx)
+* [Shadows](http://cis565-fall-2014.github.io/lectures/10-27-Shadows.pdf) by Sean Lilley
+* [Z-Buffer Optimizations](http://cis565-fall-2013.github.io/lectures/11-06-Z-Buffer-Optimizations.pptx)
+* [OpenGL Buffer Transfers](http://cis565-spring-2012.github.io/lectures/03-28-OpenGL-Buffer-Transfers.pptx)
+* [glTF and Rest3D](http://cis565-fall-2013.github.io/lectures/12-04-glTF-and-rest3d.pptx) (also see [here](https://github.com/KhronosGroup/glTF#presentations-and-articles))
+* [Modern GPU Architectures](http://cis565-spring-2012.github.io/lectures/04-18-Modern-GPUs.pptx) (modern in 2012) by Varun Sampath
+* [Perspectives on Mobile Graphics, OpenGL, and the Future of Graphics Programming](http://cis565-fall-2012.github.io/lectures/11-12-Graphics-Mobile-APIs-Life.pdf) by Dave Shreiner
+* [Graphics API Wrangling with ANGLE](https://docs.google.com/presentation/d/1vN_KTFDaKjFlIgx1vM3ZFA4Rkf723onAAhIfKR7kmgA/edit?usp=sharing) by Shannon Woods, Google
