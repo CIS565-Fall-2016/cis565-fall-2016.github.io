@@ -184,9 +184,9 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 Material from previous semesters that we did not cover:
 
-* [Parallel algorithms: Part 2](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/tree/master/lectures/5-Parallel-Algorithms-2.pptx?raw=true)
-* [Mobile Graphics](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/tree/master/lectures/10-Mobile-Graphics.pptx?raw=true) 
-* [Ray Marching](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/tree/master/lectures/12-Ray-Marching.pptx?raw=true)
+* [Parallel algorithms: Part 2](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/blob/master/lectures/5-Parallel-Algorithms-2.pptx?raw=true)
+* [Mobile Graphics](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/tree/blob/lectures/10-Mobile-Graphics.pptx?raw=true) 
+* [Ray Marching](https://github.com/CIS565-Fall-2015/cis565-fall-2015.github.io/tree/blob/lectures/12-Ray-Marching.pptx?raw=true)
 * [CUDA Profiling and Debugging](http://cis565-fall-2014.github.io/lectures/09-22-CUDA-Profiling-and-Debugging.pptx) by Zakiuddin Shehzan Ayub Mohammed, ArrayFire
 * [CUDA Odds and Ends](http://cis565-fall-2013.github.io/lectures/10-02-CUDA-Odds-and-Ends.pptx)
 * [SSAO](http://cis565-fall-2014.github.io/lectures/11-03-Ambient-Occlusion.pptx)
