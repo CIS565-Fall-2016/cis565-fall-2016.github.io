@@ -180,11 +180,6 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [ ] Ray marching performance analysis
 * [x] ~~Jetson TK1~~
 
-# Other Events
-
-* [x] ~~Code sprint at Patrick's house~~
-* [x] ~~Sixers game~~
-
 # Bonus Slides
 
 Material from previous semesters that we did not cover:
