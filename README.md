@@ -143,7 +143,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 
 ## Final project final presentations
 
-* [ ] *Thursday, December 15**
+* [x] *Thursday, December 15**
 
 # Project Schedule
 
@@ -168,7 +168,7 @@ See the schedule for [Fall 2015](https://github.com/CIS565-Fall-2015/cis565-fall
 * [x] P6 - Flocking with Vulkan and compute shaders
    * Due TBA
    * 5% of final grade
-* [ ] [Final project](https://github.com/CIS565-Fall-2016/Final-Project)
+* [x] [Final project](https://github.com/CIS565-Fall-2016/Final-Project)
    * Due TBA
    * 50% of final grade
 
